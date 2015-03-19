@@ -1,0 +1,20 @@
+{
+  "name": "trio/database",
+  "description": "A database framework you can use both online and offline",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cornel Borină",
+      "email": "cornel@borina.ro"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "classmap": [
+      "src",
+    ],
+    "psr-0": {
+    }
+  }
+}

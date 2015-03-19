@@ -1,0 +1,22 @@
+{
+    "post": {
+        "title": {
+            "type": "string"
+        },
+        "body": {
+            "type": "text"
+        },
+        "private published": {
+            "type": "bool"
+        }
+    },
+    "private user": {
+        "email": {
+            "type": "string",
+            "validate": "email"
+        },
+        "password": {
+            "type": "hash"
+        }
+    }
+}

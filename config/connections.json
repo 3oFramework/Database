@@ -1,0 +1,10 @@
+{
+    "default": "my",
+    "my": {
+        "driver": "MySQL",
+        "host": "localhost",
+        "database": "homestead",
+        "user": "homestead",
+        "password": "secret"
+    }
+}
